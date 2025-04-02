@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<!-- 1 -->
+	<Hotel>
+		<Name>Four Seasons Resort Hualalai</Name>
+		<Address>
+			<Number>72-100</Number>
+			<Street>Ka'upulehu Drive</Street>
+			<City>Kaupuhelu</City>
+			<State>HI</State>
+			<Zip>96740</Zip>
+		</Address>
+		<Phone>(808)-900-8719</Phone>
+		<Phone>(888)-340-5662</Phone>
+	</Hotel>
+	<!-- 2 -->
+	<Hotel>
+		<Name>San Francisco at Embarcadero</Name>
+		<Address NearestAirport="San Francisco International Airport">
+			<Number>222</Number>
+			<Street>Sansome Street</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94104</Zip>
+		</Address>
+	</Hotel>
+	<!-- 3 -->
+	<Hotel Rating="9.5">
+		<Name>Acqualina Resort and Residences On The Beach</Name>
+		<Address NearestAirport="Fort Lauderdale-Hollywood International Airport">
+			<Number>17875</Number>
+			<Street>Collins Avenue</Street>
+			<City>Sunny Isles Beach</City>
+			<State>Florida</State>
+			<Zip>33160</Zip>
+		<Phone>(877)-312-9742</Phone>
+	</Hotel>
+	<!-- 4 -->
+	<Hotel Rating="9.8">
+		<Name>The Little Nell</Name>
+		<Name>The Big Nell</Name>
+		<Address NearestAirport="Aspen/Pitkin County Airport">
+			<Number>675</Number>
+			<Street>E Durant Avenue</Street>
+			<City>Aspen</City>
+			<State>CO</State>
+			<Zip>81611</Zip>
+		</Address>
+		<Phone>(855)-920-4600</Phone>
+	</Hotel>
+	<!-- 5 -->
+	<Hotel>
+		<Name>The American Club</Name>
+		<Address NearestAirport="General Mitchel International Airport">
+			<Number>419</Number>
+			<Street>Highland Drive</Street>
+			<City>Kohler</City>
+			<State>WI</State>
+			<Zip>53044</Zip>
+		</Address>
+		<Phone>(855)-444-2838 </Phone>
+		<Phone>(920)-457-8000</Phone>
+	</Hotel>
+	<!-- 6 -->
+	<Hotel Rating="4.2">
+		<Name>Renaissance New York Times Square Hotel</Name>
+		<Address NearestAirport="LaGuardia Airport">
+			<Number>714</Number>
+			<Street>Seventh Avenue at W 48th Street</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10036</Zip>
+		</Address>
+		<Phone>(212)-765-7676</Phone>
+	</Hotel>
+	<!-- 7 -->
+	<Hotel>
+		<Name>Blackberry Mountain</Name>
+		<Address NearestAirport="Knoxville Airport">
+			<Number>1507</Number>
+			<Street>East Millers Cove Road</Street>
+			<City>Walland</City>
+			<State>TN</State>
+			<Zip>37886</Zip>
+		</Address>
+		<Phone>(800)-993-7824</Phone>
+		<Phone>(865)-518-0900</Phone>
+	</Hotel>
+	<!-- 8 -->
+	<Hotel>
+		<Name>Woodstock Inn and Resort</Name>
+		<Address NearestAirport="Lebanon Airport">
+			<Number>14</Number>
+			<Street>The Green</Street>
+			<City>Woodstock</City>
+			<State>VT</State>
+			<Zip>05091</Zip>
+		</Address>
+		<Phone>(800)-448-7900</Phone>
+	</Hotel>
+	<!-- 9 -->
+	<Hotel>
+		<Name>Wynn and Encore Las Vegas</Name>
+		<Address NearestAirport="Harry Reid Airport">
+			<Number>3131</Number>
+			<Street>Las Vegas Boulevard</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+		<Phone>(702)-770-7000</Phone>
+	</Hotel>
+	<!-- 10 -->
+	<Hotel>
+		<Name>Arizona Grand Resort and Spa</Name>
+		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+			<Number>8000</Number>
+			<Street>South Arizona Grand Parkway</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+		<Phone>(877)-800-4888</Phone>
+		<Phone>(602)-438-9000</Phone>
+	</Hotel>
+</Hotels>
