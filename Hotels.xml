@@ -3,7 +3,7 @@
 	<!-- Sample Hotel from Assignment Figure 1 -->
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -16,7 +16,7 @@
 	<!-- 1 -->
 	<Hotel>
 		<Name>Four Seasons Resort Hualalai</Name>
-		<Address NearestAirport="Kona International Airport">
+		<Address NearstAirport="Kona International Airport">
 			<Number>72-100</Number>
 			<Street>Ka'upulehu Drive</Street>
 			<City>Kaupuhelu</City>
@@ -29,7 +29,7 @@
 	<!-- 2 -->
 	<Hotel>
 		<Name>San Francisco at Embarcadero</Name>
-		<Address NearestAirport="San Francisco International Airport">
+		<Address NearstAirport="San Francisco International Airport">
 			<Number>222</Number>
 			<Street>Sansome Street</Street>
 			<City>San Francisco</City>
@@ -41,7 +41,7 @@
 	<!-- 3 -->
 	<Hotel Rating="9.5">
 		<Name>Acqualina Resort and Residences On The Beach</Name>
-		<Address NearestAirport="Fort Lauderdale-Hollywood International Airport">
+		<Address NearstAirport="Fort Lauderdale-Hollywood International Airport">
 			<Number>17875</Number>
 			<Street>Collins Avenue</Street>
 			<City>Sunny Isles Beach</City>
@@ -53,7 +53,7 @@
 	<!-- 4 -->
 	<Hotel Rating="9.8">
 		<Name>The Little Nell</Name>
-		<Address NearestAirport="Aspen/Pitkin County Airport">
+		<Address NearstAirport="Aspen/Pitkin County Airport">
 			<Number>675</Number>
 			<Street>E Durant Avenue</Street>
 			<City>Aspen</City>
@@ -65,7 +65,7 @@
 	<!-- 5 -->
 	<Hotel>
 		<Name>The American Club</Name>
-		<Address NearestAirport="General Mitchel International Airport">
+		<Address NearstAirport="General Mitchel International Airport">
 			<Number>419</Number>
 			<Street>Highland Drive</Street>
 			<City>Kohler</City>
@@ -78,7 +78,7 @@
 	<!-- 6 -->
 	<Hotel Rating="4.2">
 		<Name>Renaissance New York Times Square Hotel</Name>
-		<Address NearestAirport="LaGuardia Airport">
+		<Address NearstAirport="LaGuardia Airport">
 			<Number>714</Number>
 			<Street>Seventh Avenue at W 48th Street</Street>
 			<City>New York</City>
@@ -90,7 +90,7 @@
 	<!-- 7 -->
 	<Hotel>
 		<Name>Blackberry Mountain</Name>
-		<Address NearestAirport="Knoxville Airport">
+		<Address NearstAirport="Knoxville Airport">
 			<Number>1507</Number>
 			<Street>East Millers Cove Road</Street>
 			<City>Walland</City>
@@ -103,7 +103,7 @@
 	<!-- 8 -->
 	<Hotel>
 		<Name>Woodstock Inn and Resort</Name>
-		<Address NearestAirport="Lebanon Airport">
+		<Address NearstAirport="Lebanon Airport">
 			<Number>14</Number>
 			<Street>The Green</Street>
 			<City>Woodstock</City>
@@ -115,7 +115,7 @@
 	<!-- 9 -->
 	<Hotel>
 		<Name>Wynn and Encore Las Vegas</Name>
-		<Address NearestAirport="Harry Reid Airport">
+		<Address NearstAirport="Harry Reid Airport">
 			<Number>3131</Number>
 			<Street>Las Vegas Boulevard</Street>
 			<City>Las Vegas</City>
@@ -127,7 +127,7 @@
 	<!-- 10 -->
 	<Hotel>
 		<Name>Arizona Grand Resort and Spa</Name>
-		<Address NearestAirport="Phoenix Sky Harbor International Airport">
+		<Address NearstAirport="Phoenix Sky Harbor International Airport">
 			<Number>8000</Number>
 			<Street>South Arizona Grand Parkway</Street>
 			<City>Phoenix</City>
